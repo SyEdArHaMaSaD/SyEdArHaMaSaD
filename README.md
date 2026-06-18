@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arham%20Here&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arham%20Here&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20-Full%20Stack&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -15,7 +15,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-arham-asad-568b84368)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyEdArHaM22)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arham.dev007@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923111064048)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://its-arham-tech.vercel.app/)
@@ -27,7 +26,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
 <div align="center">
-<i> MERN Stack Developer with 2+ years of experience building scalable, responsive web applications. Passionate about clean code, pixel-perfect UI, and cloud-based solutions. Currently crafting smart products at SmartAI Soft, Lahore.</i>
+<i> MERN Stack Developer with years of experience building scalable, responsive web applications. Passionate about clean code, pixel-perfect UI, and cloud-based solutions. Currently crafting smart products at SmartAI Soft, Lahore.</i>
 </div>
 
 <br/>
