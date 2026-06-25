@@ -102,8 +102,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  🟣  SmartAI Soft            │  Full Stack Engineer    │  Aug 2025 – Present  ║
-║  🔵  ACME Digital Solution   │  Full Stack Developer   │  Apr 2023 – Aug 2024 ║
+║  🟣  SmartAI Soft            │  Full Stack Engineer    │  July 2025 – Present  ║
+║  🔵  ACME Digital Solution   │  Full Stack Developer   │  Apr 2023 – June 2024 ║
 ║  🟢  AppsGenii Technologies  │  Web Developer Intern   │  Apr 2023 – Jul 2023 ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
